@@ -24,14 +24,15 @@
     
 }
 
-.nab img {
-    width: 220px;
+.nab img.logo {
+    width: 100%;
+    max-width: 140px;
+    height: auto;
     opacity: 0.8;
-    position: relative;
     margin-right: auto;
-  
     margin-right: 416px;
 }
+
 
 
 
